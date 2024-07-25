@@ -1,21 +1,15 @@
 # LLMs-EffiUse-Lab 🚀
 
-<!--
-Hi There 👋
-
-Welcome to the **LLMs-EffiUse-Lab** GitHub repository! Our lab is dedicated to optimizing the use of Large Language Models (LLMs) from a user perspective. We focus on developing cost-effective, efficient, and sustainable methodologies to maximize the utilization of LLM services.
--->
-
+Hi, there 👋 Welcome to the **LLMs-EffiUse-Lab** GitHub repository! Our lab is dedicated to optimizing the use of Large Language Models (LLMs) from a user perspective. We focus on developing cost-effective, efficient, and sustainable methodologies to maximize the utilization of LLM services.
 
 ## About Us 🌟
 
 ### Research Focus 📚
 The primary focus of our research includes:
-- Optimal Assignment of Queries to LLMs 🎯
 - Cost-effective Utilization of LLMs 💰
 - Schedule Optimization for LLM Queries 📅
 - User-centric Approaches to LLM Efficiency 👥
-- 🌈
+- Sustainable Practices 🌱
 
 ### Current Projects 🔬
 - **OptLLM**: A comprehensive framework designed to optimize the allocation of queries to LLM services. It considers both the cost of invocation and performance metrics to provide the best possible query distribution. OptLLM operates in two modes:
