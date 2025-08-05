@@ -8,7 +8,7 @@ Hi, there 👋 Welcome to the **LLMs-EffiUse-Lab** GitHub repository! Our lab is
 | Project | Description | Related Publication |
 |---------|-------------|---------------------|
 | [SLS] | Dynamic LLMs Scheduling | Under review |
-| [OptLLM](https://github.com/LLMs-EffiUse-Lab/OptLLM) | Multi-objective optimization for LLMs Utilization | [ICWC 2025](https://ieeexplore.ieee.org/iel8/10707332/10707376/10707591.pdf) |
+| [OptLLM](https://github.com/LLMs-EffiUse-Lab/OptLLM) | Multi-objective optimization for LLMs Utilization | [ICWS 2025](https://ieeexplore.ieee.org/iel8/10707332/10707376/10707591.pdf) |
 | [CPLS](https://github.com/LLMs-EffiUse-Lab/CPLS) | Cross-Project LLMs Scheduling | [ICSME 2024](https://ieeexplore.ieee.org/iel8/10794981/10794987/10795114.pdf) |
 | [Exploratory Study](https://github.com/LLMs-EffiUse-Lab/Sched-ICL-Empirical) | Exploratory study for combining schedule optimization with ICL in LLM utilization | [ESEM 2024](https://doi-org.ezproxy.newcastle.edu.au/10.1145/3674805.3686671) |
 
